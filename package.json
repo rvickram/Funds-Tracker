@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "fundstracker",
+  "version": "1.0.0",
+  "description": "An API which will allow the user to track money owed between a group of friends.",
+  "main": "./server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Vickramasinghe",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
